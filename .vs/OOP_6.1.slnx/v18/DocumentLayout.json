@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "D:\\Project\\OOP_6.1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DC8004FB-D4F2-4EFA-B722-057C2E7165C4}|OOP_6.1\\OOP_6.1.vcxproj|D:\\Project\\OOP_6.1\\OOP_6.1\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{DC8004FB-D4F2-4EFA-B722-057C2E7165C4}|OOP_6.1\\OOP_6.1.vcxproj|solutionrelative:OOP_6.1\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{DC8004FB-D4F2-4EFA-B722-057C2E7165C4}|OOP_6.1\\OOP_6.1.vcxproj|D:\\Project\\OOP_6.1\\OOP_6.1\\Array.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DC8004FB-D4F2-4EFA-B722-057C2E7165C4}|OOP_6.1\\OOP_6.1.vcxproj|solutionrelative:OOP_6.1\\Array.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DC8004FB-D4F2-4EFA-B722-057C2E7165C4}|OOP_6.1\\OOP_6.1.vcxproj|D:\\Project\\OOP_6.1\\OOP_6.1\\Task.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -15,12 +15,12 @@
       "RelativeMoniker": "D:0:0:{DC8004FB-D4F2-4EFA-B722-057C2E7165C4}|OOP_6.1\\OOP_6.1.vcxproj|solutionrelative:OOP_6.1\\Task.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DC8004FB-D4F2-4EFA-B722-057C2E7165C4}|OOP_6.1\\OOP_6.1.vcxproj|D:\\Project\\OOP_6.1\\OOP_6.1\\Array.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{DC8004FB-D4F2-4EFA-B722-057C2E7165C4}|OOP_6.1\\OOP_6.1.vcxproj|solutionrelative:OOP_6.1\\Array.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{DC8004FB-D4F2-4EFA-B722-057C2E7165C4}|OOP_6.1\\OOP_6.1.vcxproj|D:\\Project\\OOP_6.1\\OOP_6.1\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DC8004FB-D4F2-4EFA-B722-057C2E7165C4}|OOP_6.1\\OOP_6.1.vcxproj|solutionrelative:OOP_6.1\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DC8004FB-D4F2-4EFA-B722-057C2E7165C4}|OOP_6.1\\OOP_6.1.vcxproj|D:\\Project\\OOP_6.1\\OOP_6.1\\Array.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{DC8004FB-D4F2-4EFA-B722-057C2E7165C4}|OOP_6.1\\OOP_6.1.vcxproj|solutionrelative:OOP_6.1\\Array.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{DC8004FB-D4F2-4EFA-B722-057C2E7165C4}|OOP_6.1\\OOP_6.1.vcxproj|D:\\Project\\OOP_6.1\\OOP_6.1\\Array.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DC8004FB-D4F2-4EFA-B722-057C2E7165C4}|OOP_6.1\\OOP_6.1.vcxproj|solutionrelative:OOP_6.1\\Array.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5768658D-5753-57BE-9F55-89088097DC31}|UnitTest1\\UnitTest1.vcxproj|D:\\Project\\OOP_6.1\\UnitTest1\\UnitTest1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -34,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
@@ -46,25 +46,24 @@
               "RelativeToolTip": "UnitTest1\\UnitTest1.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-04-27T15:02:05.102Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-27T15:02:05.102Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "main.cpp",
               "DocumentMoniker": "D:\\Project\\OOP_6.1\\OOP_6.1\\main.cpp",
               "RelativeDocumentMoniker": "OOP_6.1\\main.cpp",
               "ToolTip": "D:\\Project\\OOP_6.1\\OOP_6.1\\main.cpp",
               "RelativeToolTip": "OOP_6.1\\main.cpp",
-              "ViewState": "AgIAABYAAAAAAAAAAAAAACEAAAAkAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-04-27T14:59:45.336Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Array.cpp",
               "DocumentMoniker": "D:\\Project\\OOP_6.1\\OOP_6.1\\Array.cpp",
               "RelativeDocumentMoniker": "OOP_6.1\\Array.cpp",
@@ -72,18 +71,17 @@
               "RelativeToolTip": "OOP_6.1\\Array.cpp",
               "ViewState": "AgIAAHYAAAAAAAAAAAAAAJMAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-04-27T14:58:17.516Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-27T14:58:17.516Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "Array.h",
               "DocumentMoniker": "D:\\Project\\OOP_6.1\\OOP_6.1\\Array.h",
               "RelativeDocumentMoniker": "OOP_6.1\\Array.h",
               "ToolTip": "D:\\Project\\OOP_6.1\\OOP_6.1\\Array.h",
               "RelativeToolTip": "OOP_6.1\\Array.h",
-              "ViewState": "AgIAACsAAAAAAAAAAAAAAEgAAAACAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAEgAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2026-04-27T14:57:41.908Z",
               "EditorCaption": ""
@@ -96,7 +94,7 @@
               "RelativeDocumentMoniker": "OOP_6.1\\Task.cpp",
               "ToolTip": "D:\\Project\\OOP_6.1\\OOP_6.1\\Task.cpp",
               "RelativeToolTip": "OOP_6.1\\Task.cpp",
-              "ViewState": "AgIAABQAAAAAAAAAAAAAADEAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-04-27T15:11:12.992Z",
               "EditorCaption": ""
